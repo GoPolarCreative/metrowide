@@ -7,7 +7,7 @@ const PHONE_HREF = 'tel:0423017489';
 const trustBadges = [
   { icon: Shield, label: 'Fully Licensed & Insured' },
   { icon: Clock, label: 'Same Day Service' },
-  { icon: Star, label: '5 Years Experience' },
+  { icon: Star, label: '15+ Years Experience' },
   { icon: Wrench, label: 'Free Quotes' },
 ];
 
