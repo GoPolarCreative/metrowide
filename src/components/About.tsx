@@ -1,7 +1,7 @@
 import { Award, Users2, MapPin, ThumbsUp } from 'lucide-react';
 
 const stats = [
-  { icon: Award, n: '5+', l: 'Years Experience' },
+  { icon: Award, n: '15+', l: 'Years Experience' },
   { icon: MapPin, n: 'All', l: 'Areas Covered' },
   { icon: Users2, n: '100%', l: 'Satisfaction' },
   { icon: ThumbsUp, n: 'Free', l: 'Quotes' },
@@ -16,7 +16,7 @@ export default function About() {
           <img src="/images/4.png" alt="Metrowide Plumbing at work" className="rounded-xl shadow-2xl w-full h-[440px] object-cover" />
           <img src="/images/5.png" alt="Plumbing installation detail" className="absolute -bottom-8 -right-4 sm:-right-6 w-2/5 h-44 object-cover rounded-xl shadow-2xl border-4 border-white hidden sm:block" />
           <div className="absolute -top-6 -left-6 bg-brand-cyan text-white p-5 rounded-xl shadow-xl">
-            <p className="font-heading font-extrabold text-4xl leading-none">5+</p>
+            <p className="font-heading font-extrabold text-4xl leading-none">15+</p>
             <p className="text-xs text-white/85 mt-1 uppercase tracking-wide">Years Experience</p>
           </div>
           <div className="hidden lg:block absolute -bottom-6 -right-6 w-24 h-24 border-4 border-brand-cyan/20 rounded-xl -z-10" />
